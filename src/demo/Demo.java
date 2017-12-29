@@ -30,7 +30,7 @@ public class Demo extends JFrame implements MouseListener {
 
     @Override
     public void mouseReleased(MouseEvent e) {
-        setBackground(Color.magenta);
+        setBackground(Color.CYAN);
     }
 
     @Override
