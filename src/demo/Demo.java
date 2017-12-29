@@ -20,7 +20,7 @@ public class Demo extends JFrame implements MouseListener {
     @Override
     public void mouseClicked(MouseEvent e) {
        
-        setBackground(Color.red);
+        setBackground(Color.BLACK);
     }
 
     @Override
