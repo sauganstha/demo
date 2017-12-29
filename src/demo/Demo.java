@@ -8,13 +8,13 @@ public class Demo extends JFrame implements MouseListener {
                 dispose(); 
     }*/
     
-    event e = new event();
+    
     public Demo()
     {
         
         this.addMouseListener(this);
-        setSize(400,400);
-        setVisible(true);
+        this.setSize(400,400);
+        this.setVisible(true);
     }
 
     @Override
